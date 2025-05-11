@@ -1,0 +1,42 @@
+
+body {
+    direction: rtl;
+    font-family: sans-serif;
+    background-color: #f0f8ff;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: linear-gradient(to right, #6a1b9a, #2196f3);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.brand-title {
+    font-family: 'Tahoma', sans-serif;
+    font-size: 2.5em;
+    text-shadow: 2px 2px 5px #000;
+}
+.subtitle {
+    font-size: 1.2em;
+}
+nav {
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+}
+main {
+    padding: 20px;
+}
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #222;
+    color: white;
+}
